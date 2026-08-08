@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30852819/README.md)
+[README.md](https://github.com/user-attachments/files/30852887/README.md)
 # Lab-Project — Enterprise Network Design
 
 ## Project Description
@@ -26,7 +26,7 @@ An engineering project for designing and building a complete enterprise network 
 ## 2️⃣ Core Layer & Services Management (Layer 3 & Services)
 
 * **Address Management (DHCP):** Configured the Layer 3 switch as a local DHCP server, with separate DHCP pools for each VLAN.
-* **High Availability:** Implemented the **HSRP** protocol on the L3 switch to ensure default gateway redundancy for all network users.
+* **High Availability:** Implemented the **HSRP** protocol between the two HQ Core devices to ensure default gateway redundancy for all network users.
 * **Dynamic Routing:** Used the **OSPF** and **EIGRP** protocols to distribute routes between subnets and ensure fast network convergence.
 
 ## 3️⃣ Information Security & Connectivity (Site-to-Site IPsec VPN)
