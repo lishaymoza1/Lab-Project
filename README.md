@@ -44,3 +44,11 @@ An engineering project for designing and building a complete enterprise network 
 ## 🖼️ Additional Screenshots
 ![EtherChannel](Screenshots/EtherChannel.png)
 ![HSRP](Screenshots/HSRP.png)
+
+
+## About me
+
+- **Certifications:** Cisco CCNA · Cisco CCNP (ENARSI) · Fortinet FCP/NSE4
+- **Currently learning:** Linux fundamentals, AWS Cloud Foundations
+- **Goal:** Actively looking for a Junior Network Engineer / NOC / Integration Engineer role
+- **Contact:** lishaymoza1@gmail.com
