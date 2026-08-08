@@ -40,8 +40,7 @@ An engineering project for designing and building a complete enterprise network 
 
 ## 🏷️ VLAN Design
 
-![VLAN Design](Vlan.png)
-
+![VLAN Design](Screenshots/Vlan.png)
 ## 🖼️ Additional Screenshots
-![EtherChannel](EtherChannel.png)
-![HSRP](HSRP.png)
+![EtherChannel](Screenshots/EtherChannel.png)
+![HSRP](Screenshots/HSRP.png)
